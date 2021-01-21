@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Kraftvaerk test" verbose="10" >
+    <test name="Google search test" >
+        <classes>
+            <class name="GoogleSearchTests"/>
+        </classes>
+    </test>
+</suite>
